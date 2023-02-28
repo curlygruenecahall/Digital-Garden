@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: Cpt. Curly's Human Curation Project
 enableToc: false
 ---
 
